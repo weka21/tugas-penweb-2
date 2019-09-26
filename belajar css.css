@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  color: green;
+  margin: 20px auto 10px auto;
+  text-align: center;
+}
+body{
+  background-image: url(sapi.jpg);
+}
+img{
+  display: block;
+  width: 80px;
+  margin:auto;
+}
+
+.border{
+  display: block;
+  background-color: #eeeeee;
+  width:500px;
+  margin: 5px auto 0px auto;
+  padding: 20px;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px -3px #333;
+  text-align: center;
+}
+
+input {
+  border-radius: 10px;
+  padding: 5px 7px;
+  width: 40%;
+  border: 1px solid;
+  outline: none;
+  display: block;
+  margin: 20px auto 5px auto;
+}
+textarea{
+  display: block;
+  border-radius: 10px;
+  margin: 10px auto 10px auto;
+  width: 50%;
+  height: 30%;
+  box-shadow: 0 1px 5px 10px #ccffcc;
+}
+;
+
+
+}
